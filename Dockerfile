@@ -1,4 +1,4 @@
-FROM rawmind/alpine-monit:0.5.20-2
+FROM rawmind/alpine-base:3.5-1
 MAINTAINER Raul Sanchez <rawmind@gmail.com>
 
 #Set environment
